@@ -1,0 +1,18 @@
+:root {
+  --body-background-color: #f3e6d8;
+  --main-background-color: #ffffff;
+  --preparation-background-color: #fff5fa;
+  --subtitles-color: #854632;
+  --preparation-title-color: #7b284f;
+  --text-color: #5f574e;
+  --line-color: rgba(95, 87, 78, 0.2);
+  
+  /* #e4ded8; */
+  
+  --sans-serif-font: "Outfit", sans-serif;
+  --serif-font: "Young Serif", serif;
+  
+  --mobile-width: 37.5rem;
+  --desktop-width: 144rem;
+}
+
